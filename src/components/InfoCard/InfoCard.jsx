@@ -35,7 +35,7 @@ const InfoCard = () => {
         <span>
           <b>Works at </b>
         </span>
-        <span>Zainkeepscode inst</span>
+        <span>Google</span>
       </div>
 
       <button className="button logout-button">Logout</button>

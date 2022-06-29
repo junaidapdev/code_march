@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "./RightSide.css";
 import Home from "../../img/home.png";
 import Noti from "../../img/noti.png";
